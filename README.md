@@ -1,0 +1,2 @@
+# estressandoUmaCPU
+Trabalho para SO
