@@ -1,2 +1,0 @@
-# estressandoUmaCPU
-Trabalho para SO
